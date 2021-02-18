@@ -1,0 +1,44 @@
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+   font-size: 50px;
+ text-align: center;
+ 
+   
+}
+
+h2 {
+    text-align: center;
+ 
+
+}
+h4 {
+  text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+header {
+    padding-right: 600px;
+    padding-left: 600px;
+    text-align: center;
+  
+}
+li {
+    text-align: center;
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    font-size: 20px;
+}
+body {
+    background-color: white;
+}
+

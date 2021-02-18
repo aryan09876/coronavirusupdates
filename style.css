@@ -1,0 +1,63 @@
+body {
+    height: 100pv;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.tableau_style {
+    border-collapse: collapse;
+    min-width: 400px;
+     width: auto;
+     box-shadow: 0 50px 50px rgba(0, 0, 0, 0,15);
+     cursor: pointer;
+     margin: 100px;
+     border: 1px solid midnightblue;
+
+
+}
+
+thead tr {
+    background-color: midnightblue;
+    color: #fff;
+    text-align: left;
+
+}
+
+th, td {
+    padding: 15px 20px;
+}
+
+tbody tr, td, th {
+    border: 1px solid #ddd;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+
+footer { 
+    background-color:rgba(0, 0, 0, 0);
+    height: 23px;
+ text-align: center;
+padding-left: 100px;
+padding-right: 350px;
+text-decoration: black;
+font-style: italic;
+
+}
+nav a {
+    color: blue;
+  padding-left: 18px;
+  padding-right: 18px;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  
+} 
+
+header {
+    padding-right: 512px;
+    padding-left: 512px;
+  
+}
